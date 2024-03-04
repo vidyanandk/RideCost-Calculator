@@ -1,6 +1,7 @@
 # RideCost-Calculator
 # Overview:
 The RideCost Calculator is a C++ project that calculates the cost of a ride based on the distance traveled and the type of car selected. It also generates a detailed receipt that includes driver information for a comprehensive ride experience.
+
 ![project3a](https://github.com/vidyanandk/RideCost-Calculator/assets/141124787/8191ed7c-09d3-4678-b804-30ff6147d20c)
 ![project3b](https://github.com/vidyanandk/RideCost-Calculator/assets/141124787/2dfb3763-34e1-44bf-ac33-a83186afb285)
 ![project3c](https://github.com/vidyanandk/RideCost-Calculator/assets/141124787/377e6d03-5a14-4021-b6fe-1e242e6a17bc)
